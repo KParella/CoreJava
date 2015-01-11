@@ -81,7 +81,7 @@ public class HashMapDemo {
 	
 	//printing only values 
 	System.out.println(c); // [sweety, {1=Kir, 2=Bill}, sweety, Joy]
-		
+	System.out.println("Test1");	
 	
 }
 	}
